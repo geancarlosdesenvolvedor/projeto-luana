@@ -13,7 +13,7 @@ adicionado pesquisas na web
 import random
 from  chatterbot.trainers import ListTrainer
 from chatterbot import ChatBot
-from testedois import funcs
+from """""""" import funcs  """bota o nome do teu diretorio"""
 import pyttsx3
 
 
